@@ -1,2 +1,2 @@
-# -Collatz-Conjecture-Visualizer
- Collatz Conjecture(3x + 1) Visualizer with Python and Pygame
+# Collatz Conjecture Visualizer
+ A Collatz Conjecture Visualizer with Python and Pygame.
